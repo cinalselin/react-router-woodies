@@ -13,7 +13,7 @@ For this project, a website was created for an interior company. The following p
 
 ## Demo
 
-https://cinalselin-simple-react-blog.netlify.app/
+https://cinalselin-react-router-woodies.netlify.app/
 
 ## Screenshots
 
