@@ -1,0 +1,27 @@
+nav {
+  padding: 21px 80px 20px 118px;
+}
+
+nav,
+nav ul {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 48px;
+}
+
+nav li {
+  list-style: none;
+}
+
+nav a {
+  text-decoration: none;
+  font-weight: 400;
+  font-size: 16px;
+  color: rgba(34, 34, 34, 0.75);
+  cursor: pointer;
+}
+
+nav img {
+  height: 33px;
+}

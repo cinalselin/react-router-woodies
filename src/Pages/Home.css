@@ -1,0 +1,51 @@
+#home {
+  display: flex;
+  justify-content: space-between;
+  padding: 164px 0 0 118px;
+}
+
+section h2 {
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 49px;
+  color: #3e3f43;
+  width: 504px;
+  word-wrap: break-word;
+}
+
+section h3 {
+  font-weight: 700;
+  font-size: 72px;
+  line-height: 98px;
+  width: 504px;
+  word-break: break-word;
+  margin: 16px 0;
+}
+
+section span {
+  font-weight: 700;
+}
+
+section div:last-of-type {
+  position: absolute;
+  z-index: -1;
+  height: 100%;
+  right: 0;
+  top: 0px;
+  background-image: linear-gradient(
+    90deg,
+    #ffffff 8.33%,
+    #f9bdbd 8.33%,
+    #f9bdbd 50%,
+    #ffffff 50%,
+    #ffffff 58.33%,
+    #f9bdbd 58.33%,
+    #f9bdbd 100%
+  );
+  background-size: 2000px 4800px;
+}
+
+section div:last-of-type img {
+  object-position: bottom;
+  margin-top: 165px;
+}

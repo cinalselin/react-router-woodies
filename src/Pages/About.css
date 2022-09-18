@@ -1,0 +1,51 @@
+main {
+  padding: 124px 0 0 118px;
+}
+
+main article {
+  margin: 65px 0 120px 0;
+  display: flex;
+  gap: 100px;
+  align-items: center;
+}
+
+main article h3 {
+  font-weight: 800;
+  font-size: 36px;
+  width: 448px;
+  word-wrap: break-word;
+  margin-bottom: 16px;
+}
+
+h3 span {
+  font-weight: 600;
+}
+
+main article p {
+  font-weight: 600;
+  font-size: 24px;
+  width: 448px;
+  word-wrap: break-word;
+}
+
+.article-header {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  /* justify-content: space-between;; */
+}
+
+.article-header hr {
+  width: 318px;
+}
+
+.article-header p {
+  font-weight: 800;
+  font-size: 72px;
+  color: rgba(34, 34, 34, 0.1);
+}
+
+h4 {
+  font-weight: 700;
+  font-size: 36px;
+}

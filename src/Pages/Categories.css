@@ -1,0 +1,39 @@
+#section-products {
+  display: flex;
+  gap: 56px;
+  align-items: center;
+}
+
+.product-text {
+  width: 448px;
+  word-wrap: break-word;
+  font-weight: 600;
+  font-size: 24px;
+  margin-left: 104px;
+}
+
+.product-wrapper {
+  width: 280px;
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.product-wrapper p {
+  position: absolute;
+  width: 77px;
+  height: 33px;
+  left: 24px;
+  top: 24px;
+  font-weight: 800;
+  font-size: 24px;
+}
+
+.product-wrapper button {
+  position: absolute;
+  width: 123px;
+  height: 50px;
+  left: 133px;
+  top: 336px;
+}

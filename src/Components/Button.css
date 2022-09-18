@@ -1,0 +1,13 @@
+button {
+  background-color: #daa520;
+  border: none;
+  padding: 14px 24px;
+  border-radius: 4px;
+  color: #fff;
+  font-weight: 700;
+}
+
+button a {
+  color: #fff;
+  text-decoration: none;
+}
