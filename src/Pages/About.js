@@ -1,6 +1,11 @@
+// IMPORT COMPONENTS
 import Footer from "../Components/Footer";
+
+//IMPORT IMAGES
 import flowerIcon from "../Images/flower-icon.svg";
 import aboutSalad from "../Images/About.png";
+
+//IMPORT CSS
 import "./About.css";
 
 const About = () => {

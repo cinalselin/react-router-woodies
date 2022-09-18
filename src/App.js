@@ -1,8 +1,11 @@
-import "./App.css";
-
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
+// IMPORT CSS
+import "./App.css";
+
+// IMPORT COMPONENTS
 import Nav from "./Components/Nav";
+
 import Home from "./Pages/Home";
 import About from "./Pages/About";
 import Categories from "./Pages/Categories";

@@ -1,6 +1,11 @@
-import HomeTable from "../Images/Home.png";
-import "./Home.css";
+// IMPORT COMPONONETS
 import Button from "../Components/Button";
+
+// IMPORT IMAGES
+import HomeTable from "../Images/Home.png";
+
+// IMPORT CSS
+import "./Home.css";
 
 const Home = () => {
   return (

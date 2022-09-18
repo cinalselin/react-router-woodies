@@ -1,9 +1,15 @@
+// IMPORT COMPONENTS
 import Footer from "../Components/Footer";
+
+// IMPORT IMAGES
 import flowerIcon from "../Images/flower-icon.svg";
 import jensonTable from "../Images/Tisch.png";
 import DeonChair from "../Images/Stuhl.png";
 import KrishaBowl from "../Images/Schuesseln.png";
+
+// IMPORT CSS
 import "./Categories.css";
+
 import { Link } from "react-router-dom";
 
 const Categories = () => {

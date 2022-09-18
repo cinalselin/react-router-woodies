@@ -1,4 +1,7 @@
+// IMPORT COMPONENTS
 import Footer from "../Components/Footer";
+
+// IMPORT IMAGES
 import jensonTable from "../Images/Tisch.png";
 import flowerIcon from "../Images/flower-icon.svg";
 
