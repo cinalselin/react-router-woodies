@@ -7,9 +7,9 @@ For this project, a website was created for an interior company. The following p
 - Home
 - About
 - Categories
-  • Jenson
-  • Deon
-  • Krisha
+  - Jenson
+  - Deon
+  - Krisha
 
 ## Demo
 
