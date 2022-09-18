@@ -1,15 +1,14 @@
 # Woodies interior site created with react
 
-For this project, a website was created for an interior company. The following points were important:
-• Use React Router to enable navigation between the different subpages.
-• The project must include the following pages:
-
-- Home
-- About
-- Categories
-  - Jenson
-  - Deon
-  - Krisha
+For this project, a website was created for an interior company. The following points were important: <br>
+- Use React Router to enable navigation between the different subpages.<br>
+- The project must include the following pages:
+  - Home
+  - About
+  - Categories
+      - Jenson
+      - Deon
+      - Krisha
 
 ## Demo
 
